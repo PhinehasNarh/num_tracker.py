@@ -2,7 +2,7 @@
 
 This project is a **Phone Number Tracking Tool** developed for **educational purposes***. It demonstrates the use of various Python libraries to gather information about a phone number, such as its location and service provider.
 
----
+
 
 ## Features
 
@@ -12,7 +12,7 @@ This project is a **Phone Number Tracking Tool** developed for **educational pur
 - Maps the location using latitude and longitude coordinates.
 - Generates an HTML map file for visualization.
 
----
+
 
 ## Getting Started
 
@@ -74,19 +74,19 @@ This project was created for **EDUCATIONAL PURPOSES** and ethical hacking practi
 
 **Disclaimer:** The author(s) of this project are not responsible for any misuse of the software. Users are solely responsible for ensuring their activities comply with applicable laws and ethical standards.
 
----
+
 
 ## License
 
 This project is licensed under the **GNU GPL v3 License**. See the [LICENSE](./LICENSE) file for details.
 
----
+
 
 ## Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements or report bugs.
 
----
+
 
 ## Acknowledgments
 
