@@ -40,7 +40,7 @@ pip install phonenumbers opencage folium
 
 2. Navigate to the project directory:
    ```bash
-   cd num_tracker
+   cd number_tracker
    ```
 
 3. Open the script file and replace the placeholder variables:
@@ -49,7 +49,7 @@ pip install phonenumbers opencage folium
 
 4. Run the script:
    ```bash
-   python num_tracker.py
+   python number_tracker.py
    ```
 
 5. View the generated map by opening the `Location.html` file in your browser.
