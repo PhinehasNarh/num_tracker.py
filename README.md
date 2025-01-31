@@ -35,7 +35,7 @@ pip install phonenumbers opencage folium
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/PhinehasNarh/num_tracker.git
+   git clone https://github.com/PhinehasNarh/number_tracker.git
    ```
 
 2. Navigate to the project directory:
